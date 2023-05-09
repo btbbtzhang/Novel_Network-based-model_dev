@@ -6,7 +6,7 @@ To integrate different types of networks (data), so that a more comprehensive pi
 ## How to reach:
 Customizing Belief Propagation algorithm and Topological Overlap Computing algorithm. Well preprocessing data. Deeply understand multi-omics networks.  
 
-For example, here is how to customize Belief Propagation algorithm.
+For example, here is how to customize Belief Propagation algorithm.  
 ![Screen Shot 2023-05-09 at 7 46 56 PM](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/d6505d8d-2c6d-42c6-bd52-7ad624b07ec3)
 
 ## Descriptions:
@@ -15,7 +15,7 @@ For example, here is how to customize Belief Propagation algorithm.
 2. TCGA data operations for downloading tomour genomic and genetic data.
 
 ## Result:
-Workflow of Network-based model for multi-omics integration
+Workflow of Network-based model for multi-omics integration  
 ![Screen Shot 2023-05-09 at 7 46 22 PM](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/d4f62623-f882-4ac3-bfc3-19085416e825)
 
 
