@@ -18,5 +18,8 @@ For example, here is how to customize Belief Propagation algorithm.
 Workflow of Network-based model for multi-omics integration  
 ![Screen Shot 2023-05-09 at 7 46 22 PM](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/d4f62623-f882-4ac3-bfc3-19085416e825)
 
-
+Clustered networks or modules in Dendrogram  
 ![Screen Shot 2023-05-09 at 7 50 19 PM](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/64a4028f-b753-429f-8b5e-5e85d188c797)
+
+Example of top relevent sub-networks associated with Asthma  
+![CytoscapeOfwgcna](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/ae0c3af9-ed38-48d7-9104-405e2ab00264)
