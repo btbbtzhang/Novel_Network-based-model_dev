@@ -14,7 +14,7 @@ For example, here is how to customize Belief Propagation algorithm.
 
 2. TCGA data operations for downloading tomour genomic and genetic data.
 
-## Result:
+## Some result:
 Workflow of Network-based model for multi-omics integration  
 ![Screen Shot 2023-05-09 at 7 46 22 PM](https://github.com/btbbtzhang/Novel_Network-based-models_dev/assets/34163897/d4f62623-f882-4ac3-bfc3-19085416e825)
 
