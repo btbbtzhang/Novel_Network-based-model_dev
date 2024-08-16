@@ -1,4 +1,4 @@
-# Novel_Network-based-model_dev (Only partial code here, since paper is recently submitted)
+# Belief propagation dev for multi-omics integration in Gene similarity network (Only partial code here, since paper is recently submitted)
 
 ## Aim:
 To integrate different types of networks (data), so that a more comprehensive picture will be obtained for the understanding of genetic mechanisms and the creation of new drugs.
